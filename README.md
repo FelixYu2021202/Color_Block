@@ -28,6 +28,6 @@ There's some images of the game.
   ![freeTheme](https://yufeixian.github.io/Color_Block/img/freeTheme.png)
 
 6. then, you will have some special surprises!
-  ![specialTheme](https://yufeixian.github.io/Color_Block/img/specialTheme.jng)
+  ![specialTheme](https://yufeixian.github.io/Color_Block/img/specialTheme.jpg)
 
 **remember to play it portrait**
