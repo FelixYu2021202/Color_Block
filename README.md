@@ -30,4 +30,7 @@ There's some images of the game.
 6. then, you will have some special surprises!
   ![specialTheme](https://yufeixian.github.io/Color_Block/img/specialTheme.jpg)
 
-**remember to play it portrait**
+
+***and beside:***
+
+### **remember to play it portrait**
