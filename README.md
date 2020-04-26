@@ -5,7 +5,7 @@ This is a color game about blocks.
 
 and there's also a QR code to easy to get in:
 
-https://yufeixian.github.io/Color_Block/img/QRCode.png
+(QR code)[https://yufeixian.github.io/Color_Block/img/QRCode.png]
 
 
 **remember to play it portrait**
