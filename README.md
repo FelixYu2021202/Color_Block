@@ -32,4 +32,4 @@ There's some images of the game.
 
 ***and beside:***
 
-### **remember to play it portrait**
+**remember to play it portrait**
