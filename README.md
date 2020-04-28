@@ -1,5 +1,5 @@
 # Color Block
-[Go see game](https://yufeixian.github.io/Color_Block/)
+[Go see the game](https://yufeixian.github.io/Color_Block/)
 
 This is a color game about blocks.
 
