@@ -1,4 +1,4 @@
-# Color Block game
+# Color Block
 [Go see game](https://yufeixian.github.io/Color_Block/)
 
 This is a color game about blocks.
