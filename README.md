@@ -35,8 +35,8 @@ There's some images of the game.
 8. When you clicked *yes*, your score will be reseted, then you can play ***all*** the levels again!
   before:
   ![](https://yufeixian.github.io/Color_Block/img/playContinue.png)
-  <!-- reseting:
-  ![](https://yufeixian.github.io/Color_Block/img/onReset.png) -->
+  reseting:
+  ![](https://yufeixian.github.io/Color_Block/img/onReset.png)
   after:
   ![](https://yufeixian.github.io/Color_Block/img/playStart.png)
 
