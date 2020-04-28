@@ -38,6 +38,6 @@ There's some images of the game.
   reseting: **if you want to reset, click *YES*, if you don't want to reset, click *NO***.
   ![](https://yufeixian.github.io/Color_Block/img/onReset.png)
   after: **if you clicked *yes*, your score will be level 1 again**.
-  ![](https://yufeixian.github.io/Color_Block/img/playStart.png)<br />
+  ![](https://yufeixian.github.io/Color_Block/img/playStart.png)<br /><br />
 
 *and beside:* **remember to play it portrait**
