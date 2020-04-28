@@ -29,6 +29,9 @@ There's some images of the game.
 6. then, you will have some special surprises!
   ![](https://yufeixian.github.io/Color_Block/img/specialTheme.jpg)
 
+<!-- 7. Now, the new version of the game have a reset button, when you click *yes*, your score will be reseted -->
+<!--  -->
+<!--  -->
 
 ***and beside:***
 
