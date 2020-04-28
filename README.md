@@ -11,8 +11,8 @@ And there's also a QR code to easy to get in:
 
 There's some images of the game.
 
-1. start:
-  ![](https://yufeixian.github.io/Color_Block/img/start.png)
+<!-- 1. start:
+  ![](https://yufeixian.github.io/Color_Block/img/start.png) -->
 
 2. play start:
   ![](https://yufeixian.github.io/Color_Block/img/playStart.png)
