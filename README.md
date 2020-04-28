@@ -11,28 +11,34 @@ And there's also a QR code to easy to get in:
 
 There's some images of the game.
 
-<!-- 1. start:
-  ![](https://yufeixian.github.io/Color_Block/img/start.png) -->
+1. Start:
+  ![](https://yufeixian.github.io/Color_Block/img/start.png)
 
-2. play start:
+2. Start to play:
   ![](https://yufeixian.github.io/Color_Block/img/playStart.png)
 
-3. play continue:
+3. Playing continue:
   ![](https://yufeixian.github.io/Color_Block/img/playContinue.png)
 
-4. win or lose:
+4. Win or lose:
   ![](https://yufeixian.github.io/Color_Block/img/playFinished.png)
 
-5. themes:
+5. Themes:
   ![](https://yufeixian.github.io/Color_Block/img/freeTheme.png)
 
-6. then, you will have some special surprises!
+6. Then, you will have some special surprises!
   ![](https://yufeixian.github.io/Color_Block/img/specialTheme.jpg)
 
-<!-- 7. Now, the new version of the game have a reset button, when you click *yes*, your score will be reseted -->
-<!--  -->
-<!--  -->
+7. Now, if you play the new version, you'll know there's a new button:
+  ![](https://yufeixian.github.io/Color_Block/img/btnReset.jpg)
 
-***and beside:***
+8. When you clicked *yes*, your score will be reseted, then you can play ***all*** the levels again!
+  before:
+  ![](https://yufeixian.github.io/Color_Block/img/playContinue.png)
+  <!-- reseting:
+  ![](https://yufeixian.github.io/Color_Block/img/onReset.png) -->
+  after:
+  ![](https://yufeixian.github.io/Color_Block/img/playStart.png)
 
-**remember to play it portrait**
+
+*and beside:* **remember to play it portrait**
