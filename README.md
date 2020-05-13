@@ -1,7 +1,7 @@
 # Color Block
-[Go see the game](https://yufeixian.github.io/Color_Block/)
 
 This is a color game about blocks.
+[Go see the game](https://yufeixian.github.io/Color_Block/)
 
 And there's also a QR code to easy to get in:
 
